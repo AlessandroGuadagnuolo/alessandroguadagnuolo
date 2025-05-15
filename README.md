@@ -1,13 +1,14 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-  
-<!--
-**AlessandroGuadagnuolo/alessandroguadagnuolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Ciao!
+Mi chiamo Alessandro e sono un laureando di Informatica presso l’Università Parthenope di Napoli.
+Ho un forte interesse per tutto ciò che riguarda Data Science, Intelligenza Artificiale e la programmazione in generale.
 
-Here are some ideas to get you started:
+🚀 Qualche dettaglio su di me
+🔭 Attualmente sto lavorando a un progetto universitario che integra design pattern in Java con GUI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+🌱 Sto approfondendo i concetti di programmazione avanzata, algoritmi e strutture dati.
+
+👯 Mi piacerebbe collaborare a progetti open-source legati a educazione, automazione o data analysis.
+
+💬 Mi trovi spesso a scrivere codice in Java, C++, C ma sono in fase di ampliamento verso altri linguaggi.
+
+📫 Come contattarmi: puoi scrivermi su LinkedIn (inserisci il link al tuo profilo) oppure qui su GitHub!
