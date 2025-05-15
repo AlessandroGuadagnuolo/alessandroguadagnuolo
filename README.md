@@ -11,4 +11,4 @@ Ho un forte interesse per tutto ciò che riguarda Data Science, Intelligenza Art
 
 💬 Mi trovi spesso a scrivere codice in Java, C++, C ma sono in fase di ampliamento verso altri linguaggi.
 
-📫 Come contattarmi: puoi scrivermi su LinkedIn (inserisci il link al tuo profilo) oppure qui su GitHub!
+📫 Come contattarmi: puoi scrivermi su [LinkedIn](https://www.linkedin.com/in/alessandro-guadagnuolo-76499a176/)
